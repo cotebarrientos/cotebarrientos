@@ -2,7 +2,6 @@
 
 I'm a **junior full stack software developer** graduated with honours from Code Institute.  I am currently looking for a job opportunity that will allow me to continue developing my programming skills.
 
----
 
 ## 🙎 About me
 
@@ -12,8 +11,9 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 - I like making crafts in my spare time, I also have a YouTube channel about it
 - 🌱 I'm currently doing a specialization about React JS and Redux
 - 🌱 I’m currently learning about Material UI and StoryBook
----
+
 ## 🧰 Languages and Tools:
+
 <p align="center">
 <img  alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="40px" style="vertical-align:top; margin:4px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50px" style="vertical-align:top; margin:4px">
@@ -57,7 +57,6 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
----
 
 ## 📧 Connect with me:
 
