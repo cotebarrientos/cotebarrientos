@@ -5,7 +5,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 
 ## 🙎 About me
 
-- I am Chilean 
+- I'm Chilean <img src="https://camo.githubusercontent.com/ce57b72c39a2c71a68603de6b04da4330a06c6142817d2a51ce4ae169b7350b8/68747470733a2f2f7777772e636f756e747279666c6167732e696f2f636c2f666c61742f33322e706e67" alt="Chile"  width="20px" />
 - I speak spanish
 - My favorite programming area is **Front-end**
 - I like making crafts in my spare time, I also have a YouTube channel about it
@@ -57,7 +57,19 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## 🖊️ Design and wireframes:
+
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png" alt="photoshop" width="50px" style="vertical-align:top; margin:4px"/>
+
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/11_Illustrator_Adobe_Ai_logo_logos-256.png" alt="illustrator" width="50px" style="vertical-align:top; margin:4px"/>
+
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_affinity_designer-256.png" alt="affinity designer" width="50px" style="vertical-align:top; margin:4px"/>
+
+<img src="https://pbs.twimg.com/profile_images/742549971740725249/mvRGptl9_400x400.jpg" alt="pen" width="50px" style="vertical-align:top; margin:4px"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calligra_Krita_icon.svg/1200px-Calligra_Krita_icon.svg.png" alt="krita" width="50px" style="vertical-align:top; margin:4px"/>
+
 
 ## 📧 Connect with me:
 
-<a href='https://www.linkedin.com/in/mjbarrientosv/' target='_blank'><img alt="cotebarrientos | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href='https://www.linkedin.com/in/mjbarrientosv/' target='_blank'><img alt="cotebarrientos | LinkedIn" width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" /></a>
