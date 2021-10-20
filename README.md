@@ -59,6 +59,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 
 ## 🖊️ Design and wireframes:
 
+<p align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png" alt="photoshop" width="50px" style="vertical-align:top; margin:4px"/>
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/11_Illustrator_Adobe_Ai_logo_logos-256.png" alt="illustrator" width="50px" style="vertical-align:top; margin:4px"/>
@@ -68,6 +69,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img src="https://pbs.twimg.com/profile_images/742549971740725249/mvRGptl9_400x400.jpg" alt="pen" width="50px" style="vertical-align:top; margin:4px"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calligra_Krita_icon.svg/1200px-Calligra_Krita_icon.svg.png" alt="krita" width="50px" style="vertical-align:top; margin:4px"/>
+</p>
 
 
 ## 📧 Connect with me:
