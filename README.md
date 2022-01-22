@@ -9,8 +9,8 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 - I speak spanish
 - My favorite programming area is **Front-End**
 - I like making crafts in my spare time, I also have a YouTube channel about it
-- 🌱 I’m currently learning about Material UI and StoryBook
-- Technologies I'd like to learn: TypeScript, Angular, PHP and C#
+- 🌱 I’m currently learning about PHP and Wordpress
+- Technologies I'd like to learn: TypeScript, Angular and C#
 
 ## 🛠️ Skills
 
@@ -18,6 +18,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <p align="left">
 <img  alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="40px" style="vertical-align:top; margin:4px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50px" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg?raw=true" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ### Front-End Development
@@ -31,6 +32,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img alt="StoryBook" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
 <img alt="Redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
 <img alt="jQuery" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
+<img alt="Wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
 </p>
 
 ### Back-End Development
@@ -39,6 +41,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img alt="Django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
 <img alt="Jinja" src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/919c2c3d-5b4e-4650-943a-b0df263f851b.png"  width="50px" style="vertical-align:top; margin:4px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/meteor/meteor-original-wordmark.svg?raw=true" alt="Meteor" height="40" style="vertical-align:top; margin:4px">
+<img alt="Wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
 </p>
 
 ### Database
@@ -67,6 +70,8 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img alt="Visual Studio Code" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="vertical-align:top; margin:4px" />
 <img alt="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  width="50px" style="vertical-align:top; margin:4px"/>
+<img alt="MAMP" height="40" src="https://www.mamp.info/images/icons/mamp-pro.png" style="vertical-align:top; margin:4px" />
+<img alt="Flywheel" height="40" src="https://static.macupdate.com/products/61238/m/local-by-flywheel-logo.png?v=1568340803" style="vertical-align:top; margin:4px" />
 </p>
 
 ## 🖊️ Design and Wireframes:
@@ -81,5 +86,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 
 
 ## 📧 Connect with me:
-
-<a href='https://www.linkedin.com/in/mjbarrientosv/' target='_blank'><img alt="cotebarrientos | LinkedIn" width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" /></a>
+<p align="left">
+<a href='https://www.linkedin.com/in/mjbarrientosv/' target='_blank'><img alt="cotebarrientos | LinkedIn" width="50px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-256.png" style="vertical-align:top; margin:4px" /></a>
+<a href='https://cotebarrientos.github.io/my-portfolio/' target='_blank'><img alt="cotebarrientos | Portfolio" width="50px" src="https://cdn4.iconfinder.com/data/icons/gradient-ui-1/512/browser-256.png" style="vertical-align:top; margin:4px"/></a>
+</p>
