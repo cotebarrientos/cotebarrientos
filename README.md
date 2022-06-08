@@ -1,7 +1,6 @@
-# Hi there, I'm Maria <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/hello_world.gif?raw=true" alt="greetings" width="40px"/>
+# Hi there, I'm Maria <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/hello_world.gif?raw=true" alt="greetings" width="40px" height="40px"/>
 
-I'm a **junior full stack software developer** graduated with honours from Code Institute.  I am currently looking for a job opportunity that will allow me to continue developing my programming skills.
-
+I'm a **junior full stack software developer** graduated with honours from Code Institute. I am currently looking for a job opportunity that will allow me to continue developing my programming skills.
 
 ## 🙎 About me
 
@@ -15,6 +14,7 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 ## 🛠️ Skills
 
 ### Languages
+
 <p align="left">
 <img  alt="JavaScript" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/javascript.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/python.png?raw=true" alt="Python" width="40px" style="vertical-align:top; margin:4px">
@@ -36,15 +36,17 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 </p>
 
 ### Back-End Development
+
 <p align="left">
 <img alt="Flask" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/flask.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
 <img alt="Django" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/django.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
 <img alt="Jinja" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/jinja.png?raw=true"  width="50px" style="vertical-align:top; margin:4px"/>
 <img alt="Wordpress" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/wordpress.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
-<img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Meteor-logo.png?raw=true" alt="Meteor" height="15" style="vertical-align:top; margin:4px">
+<img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Meteor-logo.png?raw=true" alt="Meteor" width="45px"  style="vertical-align:top; margin:4px">
 </p>
 
 ### Database
+
 <p align="left">
 <img alt="SQL" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/sql.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
 <img alt="MySQL" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/my_sql.png?raw=true" width="40px" style="vertical-align:top; margin:4px" />
@@ -52,19 +54,21 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 </p>
 
 ### Deployment
+
 <p align="left">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/firebase.png?raw=true" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/heroku.png?raw=true" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ### Control Version
+
 <p align="left">
 <img alt="Git" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/git.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
 <img alt="GitHub"  src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/github.png?raw=true"  width="40px" style="vertical-align:top; margin:4px"/>
 </p>
 
-
 ## 🖥️ Workspace Setup
+
 <p align="left">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/linux.png?raw=true" alt="Linux" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/windows.png?raw=true" alt="Windows" height="40" style="vertical-align:top; margin:4px">
@@ -84,8 +88,8 @@ I'm a **junior full stack software developer** graduated with honours from Code 
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/krita.png?raw=true" alt="krita" width="40px" style="vertical-align:top; margin:4px"/>
 </p>
 
-
 ## 📧 Connect with me:
+
 <p align="left">
 <a href='https://www.linkedin.com/in/mjbarrientosv/' target='_blank'><img alt="cotebarrientos | LinkedIn" width="40px" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/linkedin.png?raw=true" style="vertical-align:top; margin:4px" /></a>
 <a href='https://cotebarrientos.github.io/my-portfolio/' target='_blank'><img alt="cotebarrientos | Portfolio" width="40px" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/web.png?raw=true" style="vertical-align:top; margin:4px"/></a>
