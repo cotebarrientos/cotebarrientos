@@ -1,17 +1,52 @@
 # Hi there, I'm Maria <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/hello_world.gif?raw=true" alt="greetings" width="40px" height="40px">
 
-I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend Development* and a Code Institute alumnus. I'm a very curious person, who loves a challenge and always wants to learn new skills, and that's one of the reasons why I decided to switch from cosmetics and design into the IT area (I was previously a beautician/dressmaker).
+I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend Development* and a Code Institute alumnus. I'm a very curious person, who loves a challenge and always wants to learn new skills, and that's one of the reasons why I decided to switch from cosmetics and design into the IT area *(I was previously a beautician/dressmaker)*.
 
 ## 🙎 About me
 
 - I'm Chilean <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Chile_flag.png?raw=true" alt="Chile"  width="20px">
-- I speak spanish
+- I speak Spanish
 - My favorite programming area is **Front-End**
 - I like making crafts in my spare time, I also have a YouTube channel about it
 - 🌱 I’m currently learning about Node JS and SASS
 - Technologies I would like to learn: TypeScript, Angular, Vue, .Net and C#
 
-## 🛠️ Skills
+#### A little more about me, but expressed using python
+
+
+        import random
+        from datetime import date
+
+
+        def This_Year(experience = 0):
+
+            give_up = False
+            current_year = date.today().year
+            my_state = [
+                "I am the best!💪",
+                "Burnout 😫",
+                "Impostor syndrome 😔",
+                "I don't know anything ☹️",
+                "I have to try again 😬"
+            ]
+
+            for day in range(1,366):
+
+                print(f"Day {day} of this year")
+                print("My State today: ", random.choice(my_state))
+
+                # This code will never run
+                if give_up:
+                    raise Exception()
+
+                experience += 1
+
+            print(f"This year {current_year} I gained {experience} experience points")
+            print(f"Happy {current_year + 1}!!!!")
+
+        This_Year()
+
+## 🛠️ My Skills
 
 ### Languages
 
