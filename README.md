@@ -2,6 +2,7 @@
 
 I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend Development* and a Code Institute alumnus. I'm a very curious person, who loves a challenge and always wants to learn new skills, and that's one of the reasons why I decided to switch from cosmetics and design into the IT area *(I was previously a beautician/dressmaker)*.
 
+
 ## 🙎 About me
 
 - I'm Chilean <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Chile_flag.png?raw=true" alt="Chile"  width="20px">
@@ -10,6 +11,10 @@ I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend 
 - I like making crafts in my spare time, I also have a YouTube channel about it
 - 🌱 I’m currently learning about Node JS and SASS
 - Technologies I would like to learn: TypeScript, Angular, Vue, .Net and C#
+
+<div align="center">
+<img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/cotebarrientos_hello_world.gif?raw=true" align="center" style="width: 50%; margin:20px;" alt="My custom image"/>
+</div> 
 
 #### A little more about me, but expressed using python
 
@@ -115,7 +120,7 @@ I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend 
 <img alt="Flywheel" height="40" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Flywheel.png?raw=true" style="vertical-align:top; margin:4px; padding-left:6px">
 </p>
 
-## 🖊️ Design and Wireframes:
+## 🖊️ Design and Wireframes (UX|UI):
 
 <p align="left" style="margin-top:20px">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/photoshop.png?raw=true" alt="photoshop" width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
@@ -123,6 +128,7 @@ I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend 
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/affinity_designer.png?raw=true" alt="affinity designer" width="45px" style="vertical-align:top; margin:4px; padding-left:6px">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/pen.jpg?raw=true" alt="pen" width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/krita.png?raw=true" alt="krita" width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
+<img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/figma.png?raw=true" alt="Figma" width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
 </p>
 
 ## 📧 Connect with me:
