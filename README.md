@@ -1,16 +1,15 @@
 # Hi there, I'm Maria <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/hello_world.gif?raw=true" alt="greetings" width="40px" height="40px">
 
-I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend Development* and a Code Institute alumnus. I'm a very curious person, who loves a challenge and always wants to learn new skills, and that's one of the reasons why I decided to switch from cosmetics and design into the IT area *(I was previously a beautician/dressmaker)*.
+I'm a **Junior Full Stack Web Developer** with a strong focus on *Frontend Development* and *web design*. I'm a very curious person, who loves a challenge and always wants to learn new skills, and that's one of the reasons why I decided to switch from cosmetics and design into the IT area *(I was previously a beautician/dressmaker)*.
 
 
 ## 🙎 About me
 
 - I'm Chilean <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Chile_flag.png?raw=true" alt="Chile"  width="20px">
-- I speak Spanish
-- My favorite programming area is **Front-End**
+- My favorite programming area is **Front-End Development**
 - I like making crafts in my spare time, I also have a YouTube channel about it
-- 🌱 I’m currently learning about Node JS and SASS
-- Technologies I would like to learn: TypeScript, Angular, Vue, .Net and C#
+- 🌱 I’m currently learning about *Node JS* and *Woocommerce*
+
 
 <div align="center">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/cotebarrientos_hello_world.gif?raw=true" align="center" style="margin:20px;" alt="My custom image"/>
@@ -72,7 +71,7 @@ I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend 
 <img alt="StoryBook" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/storybookpic.png?raw=true"  width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
 <img alt="Redux" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/reduxpic.png?raw=true"  width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
 <img alt="jQuery" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/jquery.png?raw=true"  width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
-<img alt="Wordpress" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/wordpress.png?raw=true"  width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
+<img alt="Gulp" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/gulp.png?raw=true"  width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
 <img alt="Sass" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/sass.png?raw=true"  width="40px" style="vertical-align:top; margin:4px; padding-left:6px">
 </p>
 
@@ -83,6 +82,7 @@ I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend 
 <img alt="Django" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/django.png?raw=true"  width="40px" style="vertical-align:top; margin:4px;padding-left:6px">
 <img alt="Jinja" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/jinja.png?raw=true"  width="50px" style="vertical-align:top; margin:4px;padding-left:6px">
 <img alt="Wordpress" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/wordpress.png?raw=true"  width="40px" style="vertical-align:top; margin:4px;padding-left:6px">
+<img alt="Woocommerce" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/woo.png?raw=true"  width="40px" style="vertical-align:top; margin:4px;padding-left:6px">
 <img alt="Node" src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/node.png?raw=true"  width="40px" style="vertical-align:top; margin:4px;padding-left:6px">
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/Meteor-logo.png?raw=true" alt="Meteor" width="45px"  style="vertical-align:top; margin:4px;padding-left:6px">
 </p>
