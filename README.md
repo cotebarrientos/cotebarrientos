@@ -16,7 +16,7 @@ I'm a **Junior Full Stack Software Developer** with a strong focus on *Frontend 
 <img src="https://github.com/cotebarrientos/cotebarrientos/blob/main/icons/cotebarrientos_hello_world.gif?raw=true" align="center" style="margin:20px;" alt="My custom image"/>
 </div> 
 
-<p align="center" style="margin-bottom:20px; font-weight:700">A little more about me, but expressed using python 👇</p>
+<p align="center" style="margin-bottom:20px;">A little more about me, but expressed using python 👇</p>
 
 
         import random
